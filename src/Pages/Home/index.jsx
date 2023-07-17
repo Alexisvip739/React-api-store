@@ -16,7 +16,7 @@ function Home() {
       )
     } else {
       return (
-        <div><a href="/">inicio</a></div>
+        <div> we dont have enything :(</div>
       )
     }
   }
